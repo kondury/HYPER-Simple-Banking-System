@@ -1,0 +1,18 @@
+/.idea/
+/ArchitecturePlanning/
+/Simple Banking System/Advanced system/
+/Simple Banking System/Card anatomy/
+/Simple Banking System/I'm so lite/
+/Simple Banking System/Luhn algorithm/
+/Simple Banking System/Samples/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/
+/Topics/
+/cardTest.s3db
+/course-info.yaml
+/course-remote-info.yaml
+/Simple Banking System/task/test/
+/Simple Banking System/task/card.s3db
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/
+/gradle/wrapper/gradle-wrapper.jar
